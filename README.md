@@ -1,2 +1,7 @@
-# Projeto-Nlw
-Esse é um projeto que está sendo ou foi desenvolvido durante o #2 NLW da Rocketseat
+#Olá mundo 
+Sou um jovem dev de 16 anos em fase de aprendizado,
+atualmente sem nenhuma especializaç.
+ 
+Email de contato: douglas.douglas240@gmail.com
+Linkedin:  https://www.linkedin.com/in/douglas-torres-1812481b4/
+No momento aprendendo HTML & CSS.
